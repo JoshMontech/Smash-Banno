@@ -1,4 +1,4 @@
-const g1Button = document.querySelector('.game1-button');
+ const g1Button = document.querySelector('.game1-button');
     const cp = document.querySelector('.cp');
     let displayCp = false;
     let bans = 1;
